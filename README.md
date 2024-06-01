@@ -1,8 +1,8 @@
+<img src="./screenshot.png" width="50px" height="50px" alt="Ping Pong">
+
 # Jogo Ping Pong
 
 Jogo de ping pong para aprimorar as habilidades em front end.
-
-<img src="./screenshot.png" alt="Ping Pong">
 
 ## 🔨 Funcionalidades do projeto
 
