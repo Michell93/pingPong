@@ -1,4 +1,4 @@
-<img src="./screenshot.png" width="50px" height="50px" alt="Ping Pong">
+<img src="./screenshot.png" alt="Ping Pong">
 
 # Jogo Ping Pong
 
